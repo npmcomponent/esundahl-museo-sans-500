@@ -16,9 +16,9 @@
     "museo-sans-500.css"
   ],
   "fonts": [
-    "museosans_500-webfont.eot",
-    "museosans_500-webfont.svg",
-    "museosans_500-webfont.ttf",
-    "museosans_500-webfont.woff"
+    "fonts/museosans_500-webfont.eot",
+    "fonts/museosans_500-webfont.svg",
+    "fonts/museosans_500-webfont.ttf",
+    "fonts/museosans_500-webfont.woff"
   ]
 }
