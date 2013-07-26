@@ -3,7 +3,9 @@
   "repo": "esundahl/museo-sans-500",
   "description": "Museo Sans 500 Font Component",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": [
+    "museo"  
+  ],
   "dependencies": {},
   "development": {},
   "license": "MIT",
