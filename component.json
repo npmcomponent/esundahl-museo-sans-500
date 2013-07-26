@@ -4,7 +4,10 @@
   "description": "Museo Sans 500 Font Component",
   "version": "0.0.1",
   "keywords": [
-    "museo"  
+    "font",
+    "museo",
+    "sans",
+    "500"
   ],
   "dependencies": {},
   "development": {},
